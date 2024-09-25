@@ -10,5 +10,4 @@ public abstract class shape {
         this.y = y;
     }
 
-    String color = "blue";
 }
