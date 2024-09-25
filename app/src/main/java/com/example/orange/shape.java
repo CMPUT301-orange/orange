@@ -9,5 +9,6 @@ public abstract class shape {
         this.x = x;
         this.y = y;
     }
+    String color = "pink";
 
 }
