@@ -11,4 +11,5 @@ public abstract class shape {
     }
     String color = "pink";
 
+    String color = "Blue";
 }
