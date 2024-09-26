@@ -1,6 +1,4 @@
-package com.example.orange.ui.slideshow;
-
-import com.example.orange.shape;
+package com.example.orange;
 
 public class pentagon extends shape {
 
